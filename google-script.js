@@ -24,7 +24,7 @@ function doPost(e) {
   }
   
     var url =
-    "https://maker.ifttt.com/trigger/provaPianta/with/key/kywqnZg1-5Pq7AxqTnf56VmynZOXg54lQTOZKu6xAEj";
+    "https://maker.ifttt.com/trigger/[applet_name]/with/key/[key]";
   var options = {
     method: "post",
     payload: {
